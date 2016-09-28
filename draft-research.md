@@ -864,9 +864,9 @@ informative:
 
 --- abstract
 
-The evergrowing interconnectedness of Internet and society increases the impact of the Internet on the lives of individuals. Because of this, the design and development of the architecture of the Internet also has a growing impact on society. This has led to an broad recognition that human rights {{UDHR}} {{ICCPR}} {{ICESCR}} have a role in the development and management of the Internet {{HRC2012}} {{UNGA2013}} {{NETmundial}}. It has also been argued that the Internet should be strengthened as a human rights enabling environment {{Brown}}.
+The evergrowing interconnectedness of Internet and society increases the impact of the Internet on nearly all aspects of the lives of individuals. This has led to a broad recognition within international human rights law and international humanitarian law {{UDHR}} {{ICCPR}} {{ICESCR}} that the Internet has a role in the realisation of human rights {{HRC2012}} {{UNGA2013}} {{NETmundial}}. It follows that the design and development of the underlying architecture of the Internet has a growing impact on society. It has also been argued that the Internet should be strengthened as a human rights enabling environment {{Brown}}.
 
-This document provides a proposal for a vocabulary to discuss the relation between human rights and Internet protocols, an overview of the discussion in technical and academic literature and communities, a proposal for the mapping of the relation between human rights and technical concepts, and a proposal for guidelines for human rights considerations, similar to the work done on the guidelines for privacy considerations {{RFC6973}}.
+This document provides a proposed vocabulary with which to discuss the relation between human rights and Internet protocols, an overview of the discussion in technical and academic literature and communities, a proposal for the mapping of values between the sectors of human rights and networking technology, and a proposal of guidelines for human rights considerations that are built upon the work on the guidelines for privacy considerations {{RFC6973}}.
 
 This document is not an Internet Standards Track specification; it is published for informational purposes.
 
